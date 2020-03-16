@@ -19,6 +19,7 @@ void int2bit(int n, int*nr)
 	}
 	printf("\n");
 
+
 }
 
 int main()
